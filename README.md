@@ -18,7 +18,7 @@ If you change this, be aware that:
 
 You may also wish to test the c++ without involving python. To do so, complile so\_much\_swig.cpp by itself like so:
 
-`g++ so_much_swig.py`
+`g++ so_much_swig.cpp`
 
 ## Running
 To test the module in python run:
